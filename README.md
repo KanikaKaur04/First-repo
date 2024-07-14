@@ -32,5 +32,3 @@ This Figma prototype aims to create an intuitive user experience for an educatio
 
 ## Prototype Link
 <a href="https://www.figma.com/proto/p4w1lI7UZM5cehCIitcyu6/Untitled?page-id=0%3A1&node-id=1-229&viewport=1047%2C231%2C0.49&t=MO7SmUvALJNmOcy3-1&scaling=scale-down&content-scaling=fixed">Click here</a> to Open the Figma prototype to interact with the design.
-
-Feel free to modify this README to match your specific project requirements. Happy prototyping! 🚀
